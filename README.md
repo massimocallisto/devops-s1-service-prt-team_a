@@ -38,9 +38,8 @@ Esempio di organizzazione delle cartelle:
 - [Lucia Bianchi](profiles/lucia.profile.md)  
 - [Giovanni Verdi](profiles/giovanni.profile.md)
 - [Carmela Anghelone](profiles/canghelone.profile.md)
-
-
-
+- [Matteo Contino](profiles/mcontino79-rgb.profile.md)
+- [Emanuele Gabbrielli](profiles/EmaGH25.profile.md)
 ---
 
 ## Licenza
