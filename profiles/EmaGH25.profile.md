@@ -1,7 +1,7 @@
 # Profilo – <EmaGH25>
 
 ## Sommario
-Una breve introduzione su di te.  
+Una breve introduzione su di te  
 
 ## Competenze ed Esperienze
 Elenca le principali competenze. Puoi usare punti elenco o frasi brevi.
