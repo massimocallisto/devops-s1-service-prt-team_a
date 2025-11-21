@@ -37,7 +37,11 @@ Esempio di organizzazione delle cartelle:
 - [Mario Rossi](profiles/mario.profile.md)  
 - [Lucia Bianchi](profiles/lucia.profile.md)  
 - [Giovanni Verdi](profiles/giovanni.profile.md)
+<<<<<<< HEAD
 - [Matteo Contino](profiles/mcontino79-rgb.profile.md)
+=======
+- [Emanuele Gabbrielli](profiles/EmaGH25.profile.md)
+>>>>>>> 560af586399b64049212fdc7e1329cb859902fd1
 ---
 
 ## Licenza
