@@ -1,0 +1,15 @@
+ ========================================
+# File e cartelle generiche
+# ========================================
+*.log
+*.tmp
+*.swp
+*.bak
+*.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_STORE
+.DS_Store
