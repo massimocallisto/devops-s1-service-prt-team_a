@@ -1,7 +1,7 @@
 # Profilo – <rpiccioli>
 
 ## Sommario
-Una breve introduzione su di te.  
+Una breve introduzione su di te.  CIAO
 
 ## Competenze ed Esperienze
 Elenca le principali competenze. Puoi usare punti elenco o frasi brevi.
