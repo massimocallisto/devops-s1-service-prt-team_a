@@ -9,6 +9,7 @@ Elenca le principali competenze. Puoi usare punti elenco o frasi brevi.
 - Linguaggi di programmazione:
 - Strumenti e piattaforme:
 - Aree di interesse:
+- Aggiunta info:
 
 
 ## Contatti o link
