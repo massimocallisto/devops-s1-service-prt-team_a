@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: credentials.env.template
+  checksum: d7947320f2882ba73f73986a85fd65fa47cbaf0dcf4c52a04504c829fc370440
+version: "1.0"
